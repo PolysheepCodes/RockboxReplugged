@@ -12,8 +12,6 @@
 > [!NOTE]
 > As this project currently stands I am a full time highschool student, do not expect frequent updates to the project or stunning quality, everything is subject to change as i change
 
-<div align='center'>
-
 # Introduction
 RockboxReplugged is a project that aims to overhaul and completely rewrite some of the core rockbox plugins
 
@@ -25,4 +23,3 @@ I was inspired to start this project because of a shocking lack of quality in so
 - [ ] Make my music library generally easier to scrobble
 - [ ] Address performance issues in many useful plugins like Pictureflow
   
-</div>
